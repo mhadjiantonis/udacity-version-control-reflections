@@ -11,3 +11,24 @@ The staging area contains only those files in the working directory that
 are to be included in a new commit of the repository.  It offers a space
 to collect all the changes that must be commited.
 
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+We can add there only the relevant files.  After that we can check the changes 
+using git diff and git diff --staged.
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Brances can be used to add trial features in our documents, when we want to 
+keep track of these changes and still have an original version, that can also
+evilve.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They show the different brances of changes and the parent o feach commit.
+
+
