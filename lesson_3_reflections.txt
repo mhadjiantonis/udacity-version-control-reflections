@@ -37,3 +37,12 @@ I could, for example, send the updated version of my files to my collaborators
 via email.  This is not as efficient as GitHub because I wouldn't be able to 
 know if someone else is working on the same files and it would be hard to merge 
 these changes when we are both finished.
+
+
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+
+This would be the case if I want to be sure that I will not 'break' the master 
+branch.  This could happen when I add an experimental feature in my code, and 
+I want my collaborators to check it before merging my edits to the main version.
+
