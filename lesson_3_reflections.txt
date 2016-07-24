@@ -21,3 +21,11 @@ Clones are copies of repositories either from GitHub to a local address on our
 computer or from one local address to another.  Branches, are parts of one 
 repository that include changes for different purposes.
 
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+Having this, we are able to compare our changes with the version on the cloud.
+We can also use this branch to fetch changes made obline that we have not yet
+implemented and merge them to our code.
+
