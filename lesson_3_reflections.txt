@@ -29,3 +29,11 @@ Having this, we are able to compare our changes with the version on the cloud.
 We can also use this branch to fetch changes made obline that we have not yet
 implemented and merge them to our code.
 
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+I could, for example, send the updated version of my files to my collaborators
+via email.  This is not as efficient as GitHub because I wouldn't be able to 
+know if someone else is working on the same files and it would be hard to merge 
+these changes when we are both finished.
